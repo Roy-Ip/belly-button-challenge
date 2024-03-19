@@ -154,7 +154,7 @@ function GaugeChart(selectedMetadata) {
   ];
   
   // Set up the layout
-  let layout = { width: 500, height: 400, margin: { t: 0, b: 0 } };
+  let layout = { width: 600, height: 450, margin: { t: 0, b: 0 } };
   
   // Call Plotly to plot the gauge chart
   Plotly.newPlot("gauge", gaugeData, layout);
