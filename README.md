@@ -6,5 +6,6 @@ I have uploaded the following:
   - index.html - it is the webpage of the Belly Button Biodiversity Dashboard.
   - samples.json - it is the JSON file of the samples data.
 
-The following is the web link to the App.
+The following is the web link to the App:
+
 https://roy-ip.github.io/belly-button-challenge/
